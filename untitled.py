@@ -1,11 +1,4 @@
-import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
-import matplotlib.pyplot as plt
-from sklearn.decomposition import PCA
-import pylab as pl
-from sklearn.cluster import KMeans
-import hdbscan
 import flask
 import json
 app = flask.Flask(__name__)
